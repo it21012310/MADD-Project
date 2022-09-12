@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
 
     EditText tv;
     Button btn;
+    Button btn2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
